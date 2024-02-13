@@ -4,7 +4,7 @@
 Bachelor of Science in Computer Science
 
 ## Live Website link: 
-[file:///C:/Users/LJ/Desktop/Academics/CMSC_100/Aquino_Exercise_2.html](file:///C:/Users/LJ/Desktop/Academics/CMSC_100/Aquino_Exercise_2.html)
+[http://127.0.0.1:5500/Aquino_Exercise_2.html](http://127.0.0.1:5500/Aquino_Exercise_2.html)
 
 ---
 
@@ -13,8 +13,8 @@ Bachelor of Science in Computer Science
 ### A. Creating a repository for your site
 1. In the upper-right corner of any page, select **+**, then click **New repository**.
 2. Use the Owner dropdown menu to select the account you want to own the repository.
-3. Type a name for your repository and an optional description. If you're creating a user or organization site, your repository must be named `<user>.github.io` or `<organization>.github.io`. If your user or organization name contains uppercase letters, you must lowercase the letters. For more information, see ["About GitHub Pages"](https://docs.github.com/en/pages/getting-started-with-github-pages/about-github-pages).
-4. Choose a repository visibility. For more information, see ["About repositories"](https://docs.github.com/en/get-started/quickstart/github-glossary#repository).
+3. Type a name for your repository and an optional description. If you're creating a user or organization site, your repository must be named `<user>.github.io` or `<organization>.github.io`. If your user or organization name contains uppercase letters, you must lowercase the letters.
+4. Choose a repository visibility. 
 5. Select **Initialize this repository with a README**.
 6. Click **Create repository**.
 
@@ -31,3 +31,10 @@ Bachelor of Science in Computer Science
 6. In the "Code and automation" section of the sidebar, click **Pages**.
 7. To see your published site, under "GitHub Pages", click **Visit site**.
 8. Your GitHub Pages site is built and deployed with a GitHub Actions workflow.
+
+## Key Takeaways:
+
+1. Building a static portfolio using HTML and CSS deepens understanding of web development fundamentals, such as structuring web pages, styling elements, and creating layouts.
+2. Coding a portfolio from scratch allows complete control over its design and functionality, fostering creativity and enabling customization to reflect a personal brand or style.
+3. Overcoming challenges in the process, like positioning elements and implementing responsive design, hones problem-solving and troubleshooting skills crucial in web development.
+
