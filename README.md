@@ -4,7 +4,7 @@
 Bachelor of Science in Computer Science
 
 ## Live Website link: 
-[http://127.0.0.1:5500/Aquino_Exercise_2.html](http://127.0.0.1:5500/Aquino_Exercise_2.html)
+[[http://127.0.0.1:5500/Aquino_Exercise_2.html](https://ljaquinopo.github.io/aquino-u2l-exercise02/Aquino_Exercise_2.html)]([http://127.0.0.1:5500/Aquino_Exercise_2.html](https://ljaquinopo.github.io/aquino-u2l-exercise02/Aquino_Exercise_2.html))
 
 ---
 
